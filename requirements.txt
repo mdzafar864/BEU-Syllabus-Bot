@@ -1,0 +1,4 @@
+PyTelegramBotAPI==4.15.3
+Flask==2.3.3
+requests==2.31.0
+pymongo[srv]==4.10.1
